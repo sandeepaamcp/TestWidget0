@@ -2,7 +2,7 @@
     "serviceProvider": "SocialMediaWidget\\Providers\\MapsServiceProvider",
     "version": "1.0.0",
     "name": "SocialMediaWidget",
-    "marketplaceName": { "de": "Google Maps Widget", "en": "Google Maps Widget" },
+    "marketplaceName": { "de": "Social Media test", "en": "Social Media test" },
     "description": "This is the Google Maps Widget for the Shop Builder developed by plentymarkets.",
     "author": "plentymarkets GmbH",
     "license": "AGPL-3.0",
