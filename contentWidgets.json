@@ -33,6 +33,31 @@
                     "name": "Widget.mapsZoomLabel",
                     "tooltip": "Widget.mapsZoomTooltip"
                 }
+            },
+            "entries": {
+                "type": "vertical",
+                "isList": "[1,]",
+                "options": {
+                    "name": "Widget.linkListEntryLabel"
+                },
+                "children": {
+                    "text": {
+                        "type": "text",
+                        "required": false,
+                        "options": {
+                            "name": "Widget.linkListEntryNameLabel",
+                            "tooltip": "Widget.linkListEntryNameTooltip"
+                        }
+                    },
+                    "url": {
+                        "type": "text",
+                        "required": false,
+                        "options": {
+                            "name": "Widget.linkListEntryUrlLabel",
+                            "tooltip": "Widget.linkListEntryUrlTooltip"
+                        }
+                    }
+                }
             }
         }
     }
