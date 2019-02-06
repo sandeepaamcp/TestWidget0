@@ -5,7 +5,7 @@
         "previewImageURL": "/images/google-maps-widget.svg",
         "type": "default",
         "position": 1050,
-        "widgetClass": "GoogleMapsWidget\\Widgets\\MapsWidget",
+        "widgetClass": "SocialMediaWidget\\Widgets\\MapsWidget",
         "settings": {
             "apiKey": {
                 "type": "text",
